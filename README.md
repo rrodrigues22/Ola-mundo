@@ -29,6 +29,7 @@ Lista de Tarefas:
 - [x] Tarefa 3
 - [ ] Tarefa 4
 
-![octocat](https://user-images.githubusercontent.com/118119654/221390473-85dc7727-1086-4e24-95db-9c2f8119653d.png)
+![github](https://user-images.githubusercontent.com/118119654/221390637-2391c926-22fe-4ee2-8210-710bb43d04e6.jpg)
 
 [Acesse meu GitHub](https://github.com/rrodrigues22)
+

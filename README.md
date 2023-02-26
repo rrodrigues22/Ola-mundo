@@ -39,3 +39,16 @@ Num | Nome | Nota
 2 | Teste | 10
 
 Comando `COLLECT` da linguagem ABAP
+
+Programa teste em ABAP:
+```
+DATA: purchase_documents TYPE TABLE OF ekko.
+
+SELECT SINGLE * FROM ekko INTO purchase_documents UP TO 3 ROWS.
+
+LOOP AT purchase_documents INTO DATA(purchase_document).
+
+WRITE: purchase_document-ebeln.
+
+ENDLOOP.
+```

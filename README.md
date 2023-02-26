@@ -33,3 +33,8 @@ Lista de Tarefas:
 
 [Acesse meu GitHub](https://github.com/rrodrigues22)
 
+Num | Nome | Nota
+---|---|---
+1 | Roni | 8,9
+2 | Teste | 10
+

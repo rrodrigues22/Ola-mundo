@@ -38,3 +38,4 @@ Num | Nome | Nota
 1 | Roni | 8,9
 2 | Teste | 10
 
+Comando ´COLLECT´ da linguagem ABAP

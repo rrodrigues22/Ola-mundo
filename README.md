@@ -52,3 +52,6 @@ WRITE: purchase_document-ebeln.
 
 ENDLOOP.
 ```
+
+[Acesse aqui a Biblioteca de Emojis]([https://github.com/rrodrigues22](https://emojipedia.org/))
+
